@@ -18,7 +18,7 @@ nav_order: 0
 - Gullal Cheema ([year](/va-bib/cheemag), [type](/va-bib/cheemag-type))
 - Elias Entrup ([year](/va-bib/entrupe), [type](/va-bib/entrupe-type))
 - Junaid Ghauri ([year](/va-bib/ghaurij), [type](/va-bib/ghaurij-type))
-- Wolfgang Gritz ([year](/va-bib/gritzw), [type](/va-bib/gritzw-type))
+- Wolfgang Bitter (born Gritz) ([year](/va-bib/bitterw), [type](/va-bib/bitterw-type))
 - Evelyn Navarrete ([year](/va-bib/navarretee), [type](/va-bib/navarretee-type))
 - Kader Pustu-Iren ([year](/va-bib/pustuk), [type](/va-bib/pustuk-type))
 - Ratan Sebastian ([year](/va-bib/sebastianr), [type](/va-bib/sebastianr-type))
